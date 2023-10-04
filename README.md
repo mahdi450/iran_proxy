@@ -1,1 +1,0 @@
-vless://1f3ddf87-be66-4b8f-857c-4bd5be5b98d3@5.22.209.40:443?path=%2F&security=reality&encryption=none&pbk=gyBWSFMLx98sw6XV58NS6dWtTfgC2JvWMz08V8uAfwE&host=account.zula.ir&fp=chrome&type=http&sni=bitcommand.com&sid=82e8c269#%F0%9F%87%AB%F0%9F%87%AE+MCI
